@@ -56,7 +56,7 @@
                     <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                     <div class="text-start">
                         <h6 class="text-uppercase mb-1">Call Us</h6>
-                        <span>(will be updating soon)</span>
+                        <span>(Will be updating soon)</span>
                     </div>
                 </div>
             </div>
@@ -126,10 +126,10 @@
                         </ul>
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade show active" id="pills-1" role="tabpanel" aria-labelledby="pills-1-tab">
-                                <p class="mb-0"></p>
+                                <p class="mb-0">Our pet shop provides all kind of pet accessories. We accept prebook of the products by making an online payment.We will be updating the online prebooking soon.This is just a try</p>
                             </div>
                             <div class="tab-pane fade" id="pills-2" role="tabpanel" aria-labelledby="pills-2-tab">
-                                <p class="mb-0">Our mission is to provide you the prebooking of the products.We will be updating the rest very soon </p>
+                                <p class="mb-0">(Will be updating soon.</p>
                             </div>
                         </div>
                     </div>
