@@ -129,7 +129,7 @@
                                 <p class="mb-0">Our pet shop provides all kind of pet accessories. We accept prebook of the products by making an online payment.We will be updating the online prebooking soon.This is just a try</p>
                             </div>
                             <div class="tab-pane fade" id="pills-2" role="tabpanel" aria-labelledby="pills-2-tab">
-                                <p class="mb-0">(Will be updating soon.</p>
+                                <p class="mb-0">(Will be updating soon.)</p>
                             </div>
                         </div>
                     </div>
