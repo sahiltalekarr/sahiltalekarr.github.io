@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>PET SHOP - Pet Shop Website Template</title>
+    <title>E-PET STORE - Pet Shop Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -37,8 +37,8 @@
                 <div class="d-inline-flex align-items-center">
                     <i class="bi bi-geo-alt fs-1 text-primary me-3"></i>
                     <div class="text-start">
-                        <h6 class="text-uppercase mb-1">Our Office</h6>
-                        <span>123 Street, New York, USA</span>
+                        <h6 class="text-uppercase mb-1">Our store</h6>
+                        <span>karwar,karnataka-581301</span>
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                     <i class="bi bi-envelope-open fs-1 text-primary me-3"></i>
                     <div class="text-start">
                         <h6 class="text-uppercase mb-1">Email Us</h6>
-                        <span>info@example.com</span>
+                        <span>sahiltalekar66@gmail.com</span>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                     <div class="text-start">
                         <h6 class="text-uppercase mb-1">Call Us</h6>
-                        <span>+012 345 6789</span>
+                        <span>(will be updating soon)</span>
                     </div>
                 </div>
             </div>
