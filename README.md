@@ -56,7 +56,7 @@
                     <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                     <div class="text-start">
                         <h6 class="text-uppercase mb-1">Call Us</h6>
-                        <span>(Will be updating soon)</span>
+                        <span>(soon)</span>
                     </div>
                 </div>
             </div>
