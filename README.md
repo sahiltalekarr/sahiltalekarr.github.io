@@ -77,7 +77,7 @@
             <div class="navbar-nav ms-auto py-0">
                 <a href="index.html" class="nav-item nav-link">Home</a>
                 <a href="about.html" class="nav-item nav-link active">About</a>
-                <a href="service.html" class="nav-item nav-link">Service</a>
+                
                 <a href="product.html" class="nav-item nav-link">Product</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
@@ -153,13 +153,7 @@
                         <a class="text-body" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-uppercase border-start border-5 border-primary ps-3 mb-4">Newsletter</h5>
-                    <form action="">
-                        <div class="input-group">
-                            <input type="text" class="form-control p-3" placeholder="Your Email">
-                            <button class="btn btn-primary">Sign Up</button>
-                        </div>
+                 
                     </form>
                     <h6 class="text-uppercase mt-4 mb-3">Follow Us</h6>
                     <div class="d-flex">

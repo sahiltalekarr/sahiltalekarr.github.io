@@ -456,3 +456,6 @@
 .blog-item a:hover i::after {
     width: 50px;
 }
+.gray123{
+    background-color: rgb(202, 197, 197);
+}
