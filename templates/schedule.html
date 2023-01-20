@@ -1,0 +1,39 @@
+{% extends 'base.html' %}}
+{% block title %} Schedules {% endblock %}
+{%  block content %}
+<h2><center>Schedule</center></h2>
+<div class="limiter">
+<div class="container-table100">
+<div class="wrap-table100">
+<div class="table100 ver1 m-b-110">
+<div class="table100-head">
+<table>
+<thead>
+<tr class="row100 head">
+<th class="cell100 column1">Date Time</th>
+<th class="cell100 column2">Task Description</th>
+<th class="cell100 column3">Completed</th>
+<th class="cell100 column4">Update</th>
+<th class="cell100 column5">Mark Complete</th>
+    <th class="cell100 column5">Delete</th>
+</tr>
+</thead>
+</table>
+</div>
+<div class="table100-body js-pscroll">
+<table>
+<tbody>
+    {% for task in tasks %}
+        <tr class="row100 body">
+            <td class="cell100 column1">{{task.date_time}}</td>
+            <td class="cell100 column2">{{task.task}}</td>
+            <td class="cell100 column3">{{task.completed}}</td>
+            <td class="cell100 column4"><a href={% url 'update_task' task.id %}>Update</a></td>
+            <td class="cell100 column5"><a href={% url 'mark_completed' task.id %}>Mark Completed</a></td>
+            <td class="cell100 column6"><a href={% url 'delete_task' task.id %}>Delete</a></td>
+        </tr>
+    {% endfor %}
+</tbody>
+</table>
+</div></div></div></div>
+{% endblock %}
