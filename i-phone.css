@@ -1,0 +1,375 @@
+.back-to-icon2 {
+  height: 46px;
+  width: 53px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.educational-qualification {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.educational-qualification-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.back-to-group {
+  width: 1032px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-mclaren);
+}
+.frame-child9 {
+  width: 596px;
+  height: 102px;
+  position: relative;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-orangered);
+  display: none;
+  max-width: 100%;
+}
+.divekar-college-of {
+  position: relative;
+  display: inline-block;
+  text-shadow: 6px 0 0#a74108, 0 6px 0#a74108, -6px 0 0#a74108, 0-6px 0#a74108;
+  max-width: 100%;
+  z-index: 1;
+}
+.commercemajor-computer-scien {
+  width: 336px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 1;
+}
+.commercemajor-computer-scien-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}
+.frame-child10,
+.rectangle-container {
+  border-radius: var(--br-10xl);
+  background-color: var(--color-orangered);
+  max-width: 100%;
+}
+.rectangle-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-base) var(--padding-2xs)
+    var(--padding-xl);
+  box-sizing: border-box;
+  gap: 17px;
+}
+.frame-child10 {
+  width: 596px;
+  height: 102px;
+  position: relative;
+  display: none;
+}
+.karnatak-university-dharwad,
+.shivaji-college-under {
+  margin: 0;
+}
+.shivaji-college-under-container {
+  height: 55px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 8px 0 0#a74108, 0 8px 0#a74108, -8px 0 0#a74108, 0-8px 0#a74108;
+  max-width: 100%;
+  z-index: 1;
+}
+.bachelor-of-computer {
+  width: 347px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 1;
+}
+.bachelor-of-computer-applicati-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}
+.frame-child11,
+.rectangle-parent1 {
+  border-radius: var(--br-10xl);
+  background-color: var(--color-orangered);
+  max-width: 100%;
+}
+.rectangle-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 14px 0 var(--padding-mid);
+  box-sizing: border-box;
+  gap: 13px;
+}
+.frame-child11 {
+  width: 596px;
+  height: 102px;
+  position: relative;
+  display: none;
+}
+.presidency-university-bangalo {
+  position: relative;
+  display: inline-block;
+  text-shadow: 8px 0 0#a74108, 0 8px 0#a74108, -8px 0 0#a74108, 0-8px 0#a74108;
+  max-width: 100%;
+  z-index: 1;
+}
+.masters-of-computer {
+  position: relative;
+  line-height: 24px;
+  z-index: 1;
+}
+.masters-of-computer-applicatio-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}
+.rectangle-parent2 {
+  flex: 1;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-orangered);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 12px var(--padding-base) var(--padding-2xs) 51px;
+  box-sizing: border-box;
+  gap: 21px;
+}
+.frame-parent4,
+.frame-parent5,
+.frame-wrapper2,
+.rectangle-parent2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  color: #e7e7e7;
+}
+.frame-parent4,
+.frame-parent5 {
+  flex-direction: column;
+}
+.frame-parent5 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 62px;
+  color: #f8e1e1;
+}
+.frame-parent4 {
+  flex: 1;
+  align-items: flex-end;
+  gap: 76px;
+  min-width: 389px;
+}
+.higher-secondary {
+  align-self: stretch;
+  height: 86px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.bachelors-degree,
+.masters-degree {
+  position: relative;
+}
+.masters-degrees {
+  gap: 129px;
+}
+.frame-wrapper3,
+.higher-secondary-parent,
+.masters-degrees {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.higher-secondary-parent {
+  align-self: stretch;
+  gap: 107px;
+}
+.frame-wrapper3 {
+  width: 390px;
+  padding: var(--padding-base) 0 0;
+  box-sizing: border-box;
+  min-width: 390px;
+  max-width: 100%;
+  color: var(--color-white);
+}
+.frame-child12,
+.frame-child13,
+.frame-child14 {
+  height: 2px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  right: 406px;
+  object-fit: contain;
+}
+.frame-child12 {
+  top: 34px;
+}
+.frame-child13,
+.frame-child14 {
+  bottom: 214px;
+}
+.frame-child14 {
+  bottom: 55px;
+}
+.frame-parent3 {
+  width: 1090px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 102px;
+  max-width: 100%;
+}
+.iphone,
+.iphone-inner {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.iphone-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-6xs);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: #f6d3d3;
+  font-family: var(--font-mclaren);
+}
+.iphone {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 113px 109px 478px;
+  gap: 103px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .back-to-group {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper3 {
+    flex: 1;
+  }
+  .frame-parent3 {
+    flex-wrap: wrap;
+    gap: 102px 51px;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .educational-qualification {
+    font-size: var(--font-size-19xl);
+  }
+  .iphone {
+    gap: 51px 103px;
+    padding-left: var(--padding-35xl);
+    padding-right: var(--padding-35xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .rectangle-parent2 {
+    padding-left: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .frame-parent5 {
+    gap: 31px 62px;
+  }
+  .frame-parent4 {
+    gap: 38px 76px;
+    min-width: 100%;
+  }
+  .frame-wrapper3 {
+    min-width: 100%;
+  }
+  .frame-parent3 {
+    gap: 102px 25px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .educational-qualification {
+    font-size: var(--font-size-10xl);
+  }
+  .bachelor-of-computer,
+  .commercemajor-computer-scien,
+  .divekar-college-of,
+  .masters-of-computer,
+  .presidency-university-bangalo,
+  .shivaji-college-under-container {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-parent5 {
+    gap: 15px 62px;
+  }
+  .frame-parent4 {
+    gap: 19px 76px;
+  }
+  .bachelors-degree,
+  .higher-secondary,
+  .masters-degree {
+    font-size: var(--font-size-lgi);
+  }
+  .masters-degrees {
+    gap: 64px 129px;
+  }
+  .higher-secondary-parent {
+    gap: 53px 107px;
+  }
+  .iphone {
+    gap: 26px 103px;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

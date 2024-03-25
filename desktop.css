@@ -1,0 +1,268 @@
+.back-to-icon1,
+.text2 {
+  position: absolute;
+  left: 0;
+}
+.back-to-icon1 {
+  top: 13px;
+  width: 59px;
+  height: 49px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.text2 {
+  top: 0;
+  white-space: pre-wrap;
+  display: inline-block;
+  height: 51px;
+  flex-shrink: 0;
+}
+.freejava-box {
+  height: 62px;
+  width: 59px;
+  position: relative;
+}
+.skills1 {
+  align-self: stretch;
+  height: 51px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.skills-wrapper {
+  width: 269px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13px 0 0;
+  box-sizing: border-box;
+  font-family: var(--font-mclaren);
+}
+.freejava-box-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.android-studio-icon-child {
+  height: 0.7px;
+  width: 78px;
+  position: relative;
+  object-fit: contain;
+}
+.android-studio-icon {
+  width: 392px;
+  height: 0.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-inner,
+.frame-parent2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent2 {
+  width: 744px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-8xl);
+}
+.desktop-inner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}
+.free-java-60-1174953-1-icon {
+  width: 100px;
+  height: 95px;
+  position: relative;
+  object-fit: cover;
+}
+.php-i-box {
+  height: 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px 0 0;
+  box-sizing: border-box;
+}
+.python-vertical-logo-icon-1680 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.python-vertical-logo-icon-1680-wrapper {
+  height: 130px;
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.cssi-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cssi-box,
+.cssi-label {
+  display: flex;
+  align-items: flex-start;
+}
+.cssi-label {
+  height: 90px;
+  width: 109px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.cssi-box {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.htmli-1-icon,
+.phpi-1-icon {
+  position: relative;
+  object-fit: cover;
+}
+.phpi-1-icon {
+  height: 121px;
+  width: 121px;
+}
+.htmli-1-icon {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.htmli-1-wrapper {
+  height: 100px;
+  width: 92px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 19px;
+  box-sizing: border-box;
+}
+.phpi-1-parent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.htmilabel,
+.python-vertical-logo {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.htmilabel {
+  width: 442px;
+  height: 121px;
+  flex-direction: row;
+  padding: 0 74px;
+  box-sizing: border-box;
+}
+.python-vertical-logo {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 29px;
+}
+.android-studio-icon-486x512-zp {
+  height: 122px;
+  width: 116px;
+  position: relative;
+  object-fit: cover;
+}
+.android-studio-icon-486x512-zp-wrapper {
+  align-self: stretch;
+  height: 122px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  box-sizing: border-box;
+}
+.desktop,
+.python-vertical-logo-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.python-vertical-logo-parent {
+  width: 465px;
+  gap: 50px;
+  max-width: 100%;
+}
+.desktop {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  padding: var(--padding-71xl) 526px 239px 179px;
+  box-sizing: border-box;
+  gap: 171.29999999999995px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .cssi-box {
+    flex-wrap: wrap;
+  }
+  .desktop {
+    gap: 86px 171.3px;
+    padding-left: 89px;
+    padding-right: 263px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .htmilabel {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .python-vertical-logo-parent {
+    gap: 25px 50px;
+  }
+  .desktop {
+    gap: 43px 171.3px;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
