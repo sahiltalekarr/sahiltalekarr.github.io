@@ -22,12 +22,12 @@ const Hero = () => {
           <div
   className="absolute -top-24 left-1/2 transform -translate-x-1/2 w-max px-4 py-2 text-sm font-medium text-white 
              bg-black/30 backdrop-blur-md border border-white/10 shadow-xl 
-             rounded-xl opacity-0 group-hover:opacity-100 transition duration-500 z-10"
+             rounded-xl opacity-0 group-hover:opacity-90 transition duration-500 z-10"
 >
             👋 Hey there!<br />
             Hope you're doing great today!
           </div>
-          <div className="absolute top-full left-1/2 transform -translate-x-1/2 w-32 h-1 rounded-full blur-md bg-orange-300 opacity-0 group-hover:opacity-100 transition duration-500 pointer-events-none" />
+          {/* <div className="absolute top-full left-1/2 transform -translate-x-1/2 w-32 h-1 rounded-full blur-md bg-orange-300 opacity-0 group-hover:opacity-100 transition duration-500 pointer-events-none" /> */}
         </div>
 
         {/* Heading */}
