@@ -47,7 +47,7 @@ const Hero = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4, duration: 0.8 }}
         >
-          A passionate Web Developer turning ideas into digital experiences.
+          A passionate Full Stack Developer turning ideas into digital experiences.
         </motion.p>
 
         {/* Buttons */}
